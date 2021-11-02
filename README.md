@@ -1,4 +1,4 @@
-# Subsription Smart Contract
+# Subscription Smart Contract
 written in Solidity 
 
 ### Installing Dependencies
